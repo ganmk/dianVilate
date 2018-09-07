@@ -1,0 +1,7 @@
+d:\documents\visual studio 2013\Projects\VerificationCode\VerificationCode\bin\VerificationCode.dll.config
+d:\documents\visual studio 2013\Projects\VerificationCode\VerificationCode\bin\VerificationCode.dll
+d:\documents\visual studio 2013\Projects\VerificationCode\VerificationCode\bin\VerificationCode.pdb
+d:\documents\visual studio 2013\Projects\VerificationCode\VerificationCode\bin\Newtonsoft.Json.dll
+d:\documents\visual studio 2013\Projects\VerificationCode\VerificationCode\bin\Newtonsoft.Json.xml
+d:\documents\visual studio 2013\Projects\VerificationCode\VerificationCode\obj\Debug\VerificationCode.dll
+d:\documents\visual studio 2013\Projects\VerificationCode\VerificationCode\obj\Debug\VerificationCode.pdb
